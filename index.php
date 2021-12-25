@@ -386,7 +386,7 @@ session_start();
         <div class="container">
             <div class="box">
                 <div class="arrival_bg_box">
-                    <img src="images/arrival-bg.png" alt="">
+                    <img src="./assets/picshur/arrival-bg.jpg" alt="">
                 </div>
                 <div class="row">
                     <div class="col-md-6 ml-auto">
@@ -430,7 +430,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p1.png" alt="">
+                            <img src="./assets/picshur/p1.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -455,7 +455,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p2.png" alt="">
+                            <img src="./assets/picshur/p2.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -480,7 +480,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p3.png" alt="">
+                            <img src="./assets/picshur/p3.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -505,7 +505,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p4.png" alt="">
+                            <img src="./assets/picshur/p4.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -530,7 +530,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p5.png" alt="">
+                            <img src="./assets/picshur/p5.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -555,7 +555,7 @@ session_start();
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p6.png" alt="">
+                            <img src="./assets/picshur/p6.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -616,7 +616,7 @@ session_start();
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="./assets/picshur/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -638,7 +638,7 @@ session_start();
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="./assets/picshur/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -660,7 +660,7 @@ session_start();
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="./assets/picshur/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
